@@ -9,7 +9,7 @@ Esta aplicación se distribuye de manera directa (Sideloading) mediante un archi
 
 1. **Descargar el archivo:**
    * Ve a la sección de [Releases](../../releases/latest) de este repositorio.
-   * En el apartado de **Assets**, toca el archivo llamado `DiccionarioLSM_v1.0.apk` para descargarlo en tu teléfono.
+   * En el apartado de **Assets**, toca el archivo llamado `DiccionarioLSM_v1.0.1.apk` para descargarlo en tu teléfono.
 
 2. **Otorgar permisos de instalación:**
    * Abre el archivo descargado desde tus notificaciones o desde la carpeta de *Descargas*.
@@ -32,7 +32,7 @@ This application is distributed directly (Sideloading) via a digitally signed AP
 
 1. **Download the file:**
    * Go to the [Releases](../../releases/latest) section of this repository.
-   * Under **Assets**, tap the file named `DiccionarioLSM_v1.0.apk` to download it to your phone.
+   * Under **Assets**, tap the file named `DiccionarioLSM_v1.0.1.apk` to download it to your phone.
 
 2. **Grant installation permissions:**
    * Open the downloaded file from your notifications or your *Downloads* folder.
